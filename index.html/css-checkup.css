@@ -1,0 +1,25 @@
+body{
+    background-color: slategrey;
+}
+
+.css-checkup p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-size: 35px;
+}
+
+#ID-example{
+    font-size: larger;
+    font-family: cursive;
+    color: red;
+}
+
+.Margin{
+    color: whitesmoke;
+    margin: 3px 7px 20px 2px;
+    padding: 10px;
+}
+
+.Border-style li :nth-child(1){
+    margin:10px
+}
